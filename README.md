@@ -1,1 +1,1 @@
-# negociaci-n-de-contenido-http
+# negociación-de-contenido-http
